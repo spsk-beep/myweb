@@ -1,0 +1,7 @@
+li em {
+    color: cyan;
+}
+p em, a{
+    color: orange;
+    font-weight: bold;
+}
